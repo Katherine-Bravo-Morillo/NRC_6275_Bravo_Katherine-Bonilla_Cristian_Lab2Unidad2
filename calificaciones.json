@@ -1,0 +1,40 @@
+[
+    {
+      
+        "calificacion: 8,
+        "nombre_Alumno": "Zambrano Rosad0",
+        "Nrc": "88987",
+        "Remuneracion": "Aprobad0",
+        "Asignatura": "Base de datos",
+        "Fecha_Calificacion": "2002-08-07"
+    },
+ {
+      
+        "calificacion: 20,
+        "nombre_Alumno": "Carmen Guavilez",
+        "Nrc": "88324",
+        "Remuneracion": "Reprobado",
+        "Asignatura": "Tecnologias de desarrollo de software",
+        "Fecha_Calificacion": "2009-08-07"
+    },
+
+ {
+      
+        "calificacion: 12,
+        "nombre_Alumno": "Steven Solano",
+        "Nrc": "224",
+        "Remuneracion": "Aprobado",
+        "Asignatura": "Sistemas Operativos",
+        "Fecha_Calificacion": "2006-08-07"
+    },
+
+{
+      
+        "calificacion: 16,
+        "nombre_Alumno": "Maria Cobeña",
+        "Nrc": "224",
+        "Remuneracion": "Aprobado",
+        "Asignatura": "Sistemas dde Bases de datos",
+        "Fecha_Calificacion": "2009-08-07"
+    },
+]

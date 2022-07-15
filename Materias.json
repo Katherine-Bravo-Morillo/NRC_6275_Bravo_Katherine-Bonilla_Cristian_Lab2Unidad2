@@ -1,0 +1,60 @@
+[
+    {
+       
+        "nombre_Materia": "Fundamentos Web",
+        "docente": "Zambrano Rosad0",
+        "Departamento": "Ciencias de la Computacion",
+        "NRC": "8953",
+        "carga_Horaria": 45,
+        "metologia": "Practica y teorica",
+        "fecha_Inicio": "2020-03-08",
+        "fecha_Fin": "2021-03-08",
+    },
+    {
+       
+        "nombre_Materia": "Metodos Numericos",
+        "docente": "Josue Cedeño",
+        "Departamento": "Ciencias exactas",
+        "NRC": "8973",
+        "carga_Horaria": 23,
+        "metologia": "Practica y teorica",
+        "fecha_Inicio": "2021-03-08",
+        "fecha_Fin": "2021-04-08",
+    },
+
+    {
+       
+        "nombre_Materia": "Sistemas Operativos",
+        "docente": "Mayckel Gutierrez",
+        "Departamento": "Ciencias exactas",
+        "NRC": "8923",
+        "carga_Horaria": 53,
+        "metologia": "Practica y teorica",
+        "fecha_Inicio": "2021-06-08",
+        "fecha_Fin": "2021-07-09",
+    },
+
+    {
+       
+        "nombre_Materia": "Bases de Datos",
+        "docente": "Maithe Solorzano",
+        "Departamento": "Ciencias de la computacion",
+        "NRC": "8963",
+        "carga_Horaria": 23,
+        "metologia": "Practica y teorica",
+        "fecha_Inicio": "2022-06-08",
+        "fecha_Fin": "2022-07-09",
+    },
+    {
+       
+        "nombre_Materia": "Metodologia desarrollo de software",
+        "docente": "Steven Zambrano",
+        "Departamento": "Ciencias de la computacion",
+        "NRC": "8663",
+        "carga_Horaria": 24,
+        "metologia": "Practica y teorica",
+        "fecha_Inicio": "2023-06-08",
+        "fecha_Fin": "2023-07-09",
+    },
+
+]

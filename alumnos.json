@@ -1,0 +1,114 @@
+[
+    {
+      
+        "nombre_Alumno": "Steven Jose",
+        "apellido_Alumno": "Zambrano Rosad0",
+        "sexo": "Masculino",
+        "direccion": "Picasso",
+        "Ciudad": "Cuenca",
+        "pais": "Ecuador",
+        "fecha_Nac": "2020-03-08",
+        "edad": "4",
+        "correo_Electronico": "rkbravo@espe.edu.ec"
+    },
+
+    {
+       
+        "nombre_Alumno": "Maria Selena",
+        "apellido_Alumno": "Rosado Solorzano",
+        "sexo": "Femenino",
+        "direccion": "Manabi",
+        "Ciudad": "Quito",
+        "pais": "Ecuador",
+        "fecha_Nac": "2022-03-08",
+        "edad": "2",
+        "correo_Electronico": "rkbm@espe.edu.ec"
+    },
+   {
+     
+        "nombre_Alumno": "Anahi Beatriz",
+        "apellido_Alumno": "Salazar Coello",
+        "sexo": "Femenino",
+        "direccion": "Manta",
+        "Ciudad": "Ambato",
+        "pais": "Ecuador",
+        "fecha_Nac": "2020-03-08",
+        "edad": "1",
+        "correo_Electronico": "rkbm@espe.edu.ec"
+    },
+    {
+       
+        "nombre_Alumno": "Eithan Josue",
+        "apellido_Alumno": "Bravo ",
+        "sexo": "Masculino",
+        "direccion": "Manta",
+        "Ciudad": "Ambato",
+        "pais": "Ecuador",
+        "fecha_Nac": "2021-03-08",
+        "edad": "2",
+        "correo_Electronico": "rkbm@espe.edu.ec"
+    },
+     {
+        
+        "nombre_Alumno": "Sheilla Jomayra",
+        "apellido_Alumno": "Cedeño Rosado",
+        "sexo": "Femenino",
+        "direccion": "Tosagua",
+        "Ciudad": "Ambato",
+        "pais": "Ecuador",
+        "fecha_Nac": "2019-09-08",
+        "edad": "5",
+        "correo_Electronico": "rk@espe.edu.ec"
+    },
+    {
+       
+        "nombre_Alumno": "Thomas Esteven",
+        "apellido_Alumno": "Mora Mora",
+        "sexo": "Masculino",
+        "direccion": "Guayaquil",
+        "Ciudad": "Santo Domingo",
+        "pais": "Ecuador",
+        "fecha_Nac": "2018-09-08",
+        "edad": "4",
+        "correo_Electronico": "rkjk@espe.edu.ec"
+    },
+    {
+       
+        "nombre_Alumno": "Stefany Catalina",
+        "apellido_Alumno": "Zambrano Delgado",
+        "sexo": "Femenino",
+        "direccion": "Via Quevedo",
+        "Ciudad": "Santo Domingo",
+        "pais": "Ecuador",
+        "fecha_Nac": "2017-09-08",
+        "edad": "3",
+        "correo_Electronico": "jdkjk@espe.edu.ec"
+    },
+     {
+        
+        "nombre_Alumno": "Kevin Jair",
+        "apellido_Alumno": " Delgado Vera",
+        "sexo": "Masculino",
+        "direccion": "Tosagua",
+        "Ciudad": "Loja",
+        "pais": "Ecuador",
+        "fecha_Nac": "2016-09-08",
+        "edad": "2",
+        "correo_Electronico": "jdkjk@espe.edu.ec"
+    },
+    {
+       
+        "nombre_Alumno": "Amelia Belen",
+        "apellido_Alumno": " Delgado Zambrano",
+        "sexo": "Femenino",
+        "direccion": "Rio Lelia",
+        "Ciudad": "Ambato",
+        "pais": "Ecuador",
+        "fecha_Nac": "2018-09-08",
+        "edad": "5",
+        "correo_Electronico": "jdkjk@espe.edu.ec"
+    }
+
+
+
+]

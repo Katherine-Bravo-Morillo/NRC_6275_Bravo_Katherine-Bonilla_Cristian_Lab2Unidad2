@@ -1,0 +1,117 @@
+[
+    {
+      
+        "nombre_Maestro": "Mario Fernando",
+        "apellido_Maestro": "Zambrano Loor",
+        "sexo": "Masculino",
+        "direccion": "Ciudad nueva",
+        "Ciudad": "Cuenca",
+        "pais": "Ecuador",
+        "fecha_Nac": "2020-03-08",
+        "edad": "42",
+        "correo_Electronico": "mrkh@espe.edu.ec"
+    },
+
+   {
+       
+        "nombre_Maestro": "Fernando Vinueza",
+        "apellido_Maestro": " Loor Gonzales",
+        "sexo": "Masculino",
+        "direccion": "Esatado Ecuatoriano",
+        "Ciudad": "Manabi",
+        "pais": "Ecuador",
+        "fecha_Nac": "2019-03-08",
+        "edad": "29",
+        "correo_Electronico": "irkh@espe.edu.ec"
+    },
+     {
+       
+        "nombre_Maestro": "Pablo Steven",
+        "apellido_Maestro": " Mestanza Coello",
+        "sexo": "Masculino",
+        "direccion": "Nueva Loja",
+        "Ciudad": "Carmen",
+        "pais": "Ecuador",
+        "fecha_Nac": "2016-02-08",
+        "edad": "23",
+        "correo_Electronico": "irkh@espe.edu.ec"
+    },
+    {
+        
+        "nombre_Maestro": "Mario Adrian",
+        "apellido_Maestro": " Bravo Vinueza",
+        "sexo": "Masculino",
+        "direccion": "Nueva Loja",
+        "Ciudad": "Esmeraldas",
+        "pais": "Ecuador",
+        "fecha_Nac": "2012-02-08",
+        "edad": "39",
+        "correo_Electronico": "orkh@espe.edu.ec"
+    },
+
+   {
+       
+        "nombre_Maestro": "Johanna Carmen",
+        "apellido_Maestro": " Mercedez Coello",
+        "sexo": "Femenino",
+        "direccion": "Nueva Loja",
+        "Ciudad": "Manabi",
+        "pais": "Ecuador",
+        "fecha_Nac": "2019-02-08",
+        "edad": "49",
+        "correo_Electronico": "iikh@espe.edu.ec"
+    },
+
+   {
+        
+        "nombre_Maestro": "Carmen Nathalia",
+        "apellido_Maestro": "Mendoza Bermeo",
+        "sexo": "Femenino",
+        "direccion": "Nueva Quito",
+        "Ciudad": "Quito",
+        "pais": "Ecuador",
+        "fecha_Nac": "2016-02-08",
+        "edad": "49",
+        "correo_Electronico": "ohkh@espe.edu.ec"
+    },
+    {
+     
+        "nombre_Maestro": "Noelia Jasmin",
+        "apellido_Maestro": "Mendoza Zambrano",
+        "sexo": "Femenino",
+        "direccion": "Calle Tulcan",
+        "Ciudad": "Quito",
+        "pais": "Ecuador",
+        "fecha_Nac": "2016-07-28",
+        "edad": "39",
+        "correo_Electronico": "kdhkh@espe.edu.ec"
+    },
+    {
+     
+        "nombre_Maestro": "Martha Cedeño ",
+        "apellido_Maestro": "Rosado Benavidez",
+        "sexo": "Femenino",
+        "direccion": "Av Toachi",
+        "Ciudad": "Manabi",
+        "pais": "Ecuador",
+        "fecha_Nac": "2019-09-28",
+        "edad": "39",
+        "correo_Electronico": "kdhkh@espe.edu.ec"
+    },
+
+  {
+      
+        "nombre_Maestro": "Jhoan Mathias ",
+        "apellido_Maestro": "Mendez Mora",
+        "sexo": "Masculino",
+        "direccion": "Av Toachi",
+        "Ciudad": "Quito",
+        "pais": "Ecuador",
+        "fecha_Nac": "2012-09-28",
+        "edad": "39",
+        "correo_Electronico": "kdhkh@espe.edu.ec"
+    },
+
+
+
+]
